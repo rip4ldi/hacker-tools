@@ -1,4 +1,6 @@
 # hacker_tools: A collection of semi-useful hacking scripts
+*by @hedgenull*
+
 
 Includes:
 - a [file encrypter/decrypter](/crypto/crypto.py)
