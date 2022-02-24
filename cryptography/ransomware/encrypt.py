@@ -31,7 +31,7 @@ def encrypt(key):
 
 
 # Socket information
-IP = "192.168.1.68"
+IP = "192.168.1.68" # Test IP
 PORT = 9700
 
 # Encryption information
