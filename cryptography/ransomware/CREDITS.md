@@ -1,0 +1,1 @@
+I really appreciate Python Esper's video about ransomware- these are the same scripts. See the video [here](https://www.youtube.com/watch?v=RZFNB3Swczs&list=PL8KnQ7ULK8egs86oy1gRRa21CGDrEefPw&index=7)! 
