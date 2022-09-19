@@ -1,4 +1,4 @@
-# hacker-tools: A collection of semi-useful hacking scripts
+# hacker-tools: a collection of semi-useful hacking scripts
 *by @hedgenull*
 
 
